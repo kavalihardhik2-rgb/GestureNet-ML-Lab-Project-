@@ -1,0 +1,14 @@
+{
+  "HOG + Logistic Regression": {
+    "val_accuracy": 0.8806,
+    "test_accuracy": 0.8484,
+    "test_macro_f1": 0.8489,
+    "train_seconds": 0.4
+  },
+  "HOG + SVM (RBF)": {
+    "val_accuracy": 0.9194,
+    "test_accuracy": 0.8742,
+    "test_macro_f1": 0.8749,
+    "train_seconds": 3.1
+  }
+}

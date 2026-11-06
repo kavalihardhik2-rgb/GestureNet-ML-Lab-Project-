@@ -1,0 +1,19 @@
+Test accuracy: 0.9968
+Macro F1: 0.9968
+
+              precision    recall  f1-score   support
+
+   gesture_0     1.0000    1.0000    1.0000        31
+   gesture_1     1.0000    1.0000    1.0000        31
+   gesture_2     1.0000    1.0000    1.0000        31
+   gesture_3     1.0000    1.0000    1.0000        31
+   gesture_4     1.0000    0.9677    0.9836        31
+   gesture_5     0.9688    1.0000    0.9841        31
+   gesture_6     1.0000    1.0000    1.0000        31
+   gesture_7     1.0000    1.0000    1.0000        31
+   gesture_8     1.0000    1.0000    1.0000        31
+   gesture_9     1.0000    1.0000    1.0000        31
+
+    accuracy                         0.9968       310
+   macro avg     0.9969    0.9968    0.9968       310
+weighted avg     0.9969    0.9968    0.9968       310
